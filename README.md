@@ -1,32 +1,30 @@
-# Project Playground Functions - Trybe, Turma 16-B
+# Project Playground Functions - Trybe, Class 16-B
 
-O desafio foi escrever códigos em JavaScript que usam variáveis e tipos primitivos, utilizar conceitos da linguagem como a tipagem dinâmica e operadores lógicos/aritméticos/de atribuição, criar códigos que usam estruturas condicionais, manipular arrays e utilizar o comando *for*. Além disso, são necessárias as práticas de quebrar grandes problemas em pequenos e utilizar a lógica de programação na resolução de problemas.
+The challenge was to write JavaScript code that utilizes variables and primitive types, use language concepts such as dynamic typing and logical/arithmetic/assignment operators, create code with conditional structures, manipulate arrays, and use the `for` loop. Additionally, it required breaking down large problems into smaller ones and applying programming logic to problem-solving.
 
-- Link do projeto: [clique](https://github.com/tryber/sd-016-b-project-playground-functions)
-
-## Tecnologias usadas
+## Technologies Used
 - JavaScript
 
-## Requisitos
-- Criar uma função usando o operador &&
-- Criar uma função que calcule a área de um triângulo
-- Criar uma função que divida uma frase em uma array de strings
-- Criar uma função que use concatenação de strings
-- Criar uma função que calcule a quantidades de pontos de um time em um campeonato de futebol
-- Criar uma função que calcule a repetição do maior número dentro de uma array
-- Criar uma função de Caça ao Rato, que calcule as distâncias entre os gatos e o rato e retorne qual deles irá alcançar o rato primeiro
-- Criar uma função FizzBuzz, que retorna strings a depender do divisor do número
-- Criar uma função que Codifique e Decodifique uma string, trocando vogais por números e vice-versa
-- Criar uma função de Listas de Tecnologias, que retorna uma lista de objetos
-- Criar uma função de Número de Telefone, que ao receber uma array de números, retorna um número de telefone com DDD
-- Criar uma função de Condição de existência de um triângulo
-- Criar uma função de boas vindas ao Bar da Trybe, que retorne quantos copos de água o usuário deve beber a depender de quantos copos de bebida ele já tomou
+## Requirements
+- [x] Create a function using the && operator.
+- [x] Create a function that calculates the area of a triangle.
+- [x] Create a function that splits a sentence into an array of strings.
+- [x] Create a function that uses string concatenation.
+- [x] Create a function that calculates the number of points for a team in a football championship.
+- [x] Create a function that calculates the repetition of the largest number within an array.
+- [x] Create a Rat Hunt function that calculates the distances between the cats and the rat and returns which one will reach the rat first.
+- [x] Create a FizzBuzz function that returns strings depending on the number's divisor.
+- [x] Create a function that encodes and decodes a string, swapping vowels for numbers and vice versa.
+- [x] Create a Technology Lists function that returns a list of objects.
+- [x] Create a Phone Number function that, when given an array of numbers, returns a phone number with area code.
+- [x] Create a Triangle Existence Condition function.
+- [x] Create a Welcome to Trybe's Bar function that returns how many glasses of water the user should drink based on the number of drinks they've already had.
 
-## Aprendizados
-O projeto foi muito desafiador e me deu a oportunidade de praticar lógica de programação, algo fundamental e no qual eu ainda tenho muito a desenvolver. A prática de quebrar problemas grandes em pequenos problemas tem sido muito valiosa e será de grande ajuda em projetos futuros. O maior aprendizado deste projeto foi com o ESLint, pois eu tive um certo trabalho para refatorar meu código de forma a resolver todos os erros que ele apontou, mas isso resultou em um código muito mais limpo, legível e acessível.
+## Learnings
+The project was quite challenging and provided me with the opportunity to practice programming logic, a fundamental skill in which I still have much to develop. The practice of breaking down large problems into smaller ones has been incredibly valuable and will be of great help in future projects. The most significant learning from this project was with ESLint, as I had some trouble refactoring my code to address all the errors it pointed out. However, this resulted in much cleaner, readable, and accessible code.
 
 ## Agradecimento
-- Toda a minha gratidão ao [Gabriel Rodrigues Leite](https://github.com/gabrielrodriguesleite), que me ajudou muito com comentários super relevantes que me ajudaram a refatorar o código de forma que ele ficasse ainda mais assertivo.
+- My sincere gratitude to [Gabriel Rodrigues Leite](https://github.com/gabrielrodriguesleite), who provided me with highly relevant comments that helped me refactor the code to be even more accurate.
 
 
 
